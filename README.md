@@ -138,4 +138,9 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 ## Citation
 
-\[TBD\]
+    @article{corbeil2024iryonlp,
+      title={IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents}, 
+      author={Jean-Philippe Corbeil},
+      journal={arXiv preprint arXiv:2404.15488},
+      year={2024}
+    }
